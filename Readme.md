@@ -14,7 +14,7 @@
 
 <hr>
 
-[📍click here to see page]()
+[📍click here to see page](https://yasinsutoglu.github.io/Digital-Clock-App/)
 
 <!-- ------------------------------------------------------ -->
 
@@ -46,7 +46,7 @@ App(folder)
 
 - CSS / Basic Css properties etc.
 
-- JS / DOM Manipulation - Arrow Function - Conditionals - Functions - 
+- JS / DOM Manipulation - Arrow Function - Conditionals - Functions - Set Interval - Set Timeout - Date Function & Properties
 ### At the end of the project, i will be able to;
 
 - improve coding skills within HTML & CSS & JS

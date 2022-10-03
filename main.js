@@ -13,8 +13,7 @@ let hours = 0
 
 
 const showTime =()=> {
-// hours = new Date().getHours()
-hours = new Date().getHours();
+hours = new Date().getHours()
 hour.innerText = hours
 minute.innerText = new Date().getMinutes()
 second.innerText = new Date().getSeconds();
