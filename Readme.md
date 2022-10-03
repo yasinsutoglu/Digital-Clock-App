@@ -1,7 +1,7 @@
-<h1 align="center">Weather App</h1>
+<h1 align="center">Digital-Clock App</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this project I mastered API and DOM skills. I used mainly HTML, CSS and JS (DOM Manipulation), FetchAPI. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 In this project I mastered DOM skills. I used mainly HTML, CSS and JS (DOM Manipulation). You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 <hr>
 
 ## ✨ Demo
@@ -14,7 +14,7 @@
 
 <hr>
 
-[📍click here to see page](https://yasinsutoglu.github.io/WeatherAPP/)
+[📍click here to see page]()
 
 <!-- ------------------------------------------------------ -->
 
@@ -26,7 +26,7 @@ App(folder)
 |----img           
 |----solution
         |----index.html  
-        |----app.js  
+        |----main.js  
         |----style.css 
 ```
 
@@ -44,9 +44,9 @@ App(folder)
 
 - HTML / Semantic elements 
 
-- Bootstrap / Card Element and style classes etc.
+- CSS / Basic Css properties etc.
 
-- JS / DOM Manipulation - Arrow Function - Events - Conditionals - Functions - Fetch API 
+- JS / DOM Manipulation - Arrow Function - Conditionals - Functions - 
 ### At the end of the project, i will be able to;
 
 - improve coding skills within HTML & CSS & JS
@@ -62,7 +62,7 @@ App(folder)
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/WeatherAPP'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/Digital-Clock-App'>My Docs</a>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
 <!-- ------------------------------------------------------------------------- -->
